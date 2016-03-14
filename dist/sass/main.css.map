@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","core/_variables.scss"],"names":[],"mappings":"AAEA;EACI,uBCHQ;EDIR,sBAAsB,EACzB","file":"main.css","sourcesContent":["@import './core/_variables';\r\n\r\nbody{\r\n    background-color: $color;\r\n    border: solid 1px red;\r\n}","$color: blue;"],"sourceRoot":"/source/"}
